@@ -1,16 +1,44 @@
-## Hi there 👋
+## 软件工程第一次作业
+| 这个作业属于哪个课程 | [计科23级12班](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience) |
+| ----------- | ----------- |
+| 这个作业要求在哪里 | [【作业1】自我介绍+软工5问](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469) |
+| 这个作业的目标    |  学习使用 Markdown，熟练掌握 GitHub 及 Git 的使用方法，建立个人博客，初步认识软件工程这一门课 | 
 
-<!--
-**tobysieam/tobysieam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 个人介绍
+- :satisfied:兴趣爱好
+    - 喜欢踢足球、打乒乓球
+    - 看杂志
+- :camel:个人经历
+    - 广东工业大学23级计算机学院计算机科学与技术学生
+    - 掌握C、Python，目前正在学习Django、Flask、FastAPI
 
-Here are some ideas to get you started:
+## 软件五问
+- 团队代码审查的具体实施流程和关键注意事项是什么？
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 持续集成与持续部署（CI/CD）在实际项目中如何搭建和有效运行？
+
+- 项目开发中如何识别和合理管理技术债务以避免影响长期发展？
+
+- 敏捷开发中的用户故事编写与估算如何准确反映实际需求并指导开发？
+
+- 跨团队协作时，如何统一技术标准和沟通机制以提高开发效率？
+
+## 我想收获什么
+- 掌握技术债务的识别与评估流程，能通过合理方案逐步优化，避免项目长期质量滑坡
+
+- 学会跨团队技术标准对齐方法，确保多模块集成时的兼容性与一致性
+
+- 掌握需求变更的影响分析与管控机制，能在满足业务需求的同时，减少对项目进度的干扰
+
+- 学会运用代码审查工具与规范，高效发现代码潜在问题，提升团队整体代码质量水平
+
+- 掌握项目风险的预判与应对策略，降低项目开发过程中的突发风险
+
+- 学会在项目迭代中平衡功能开发与质量保障，避免因追求进度而忽视代码健壮性的问题
+
+- 掌握规范化的项目交接流程，确保项目人员变动时工作能顺畅衔接
+
+
+## Github
+https://github.com/tobysieam/tobysieam
+    
