@@ -76,28 +76,8 @@
 4. `main.py`中的`main`函数：解析命令行参数，根据参数选择生成模式或判分模式，调用相应模块的功能并处理文件输出。
 
 ### 4.3 关键函数流程图
-以`Generator`类的`generate`方法为例，其流程图如下：
-```
-开始
-|
-初始化exercises、answers列表和seen集合
-|
-循环：当exercises数量小于n且尝试次数未超限
-|   |
-|   调用generate_one生成一个表达式e
-|   |
-|   将e转换为字符串s并处理外层括号
-|   |
-|   获取e的canonical字符串作为key
-|   |
-|   判断key是否在seen中
-|   |   是 -> 继续循环
-|   |   否 -> 将key加入seen，s加入exercises，计算答案加入answers
-|
-结束循环
-|
-返回exercises和answers
-```
+
+![流程图](流程图.png)
 
 ## 五、代码说明
 
